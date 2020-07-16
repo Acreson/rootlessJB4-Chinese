@@ -11,14 +11,14 @@
 
 Saily包管理器
 
-——说。守护进程与rootlessJB4绑定在一起
+先安装Saily包管理器，用他安装调整。
+- ![Saily ipa](https://github.com/SailyTeam/Saily-Store/releases/download/M0.6-b1122/SailySandBoxed.ipa)
 
+
+——守护进程与rootlessJB4绑定在一起
 ——SailySandBoxed。应该安装ipa和rootlessJB4.ipa
-
 -不是所有的包与我们的补丁工作。等待开发人员更新
 
--旁载与再供应或AltStore!
-- ![Saily ipa](https://github.com/SailyTeam/Saily-Store/releases/download/M0.6-b1122/SailySandBoxed.ipa)
 
 
 
